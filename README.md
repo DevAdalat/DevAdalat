@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devadalat" alt="devadalat" /></a> </p>
 
-- 🌱 I’m currently learning **AOSP devlopment and Rust**
+- 🌱 I’m currently learning **Rust**
 
 - 👯 I’m looking to collaborate on [TFile](https://github.com/DevAdalat/TFile)
 
