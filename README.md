@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👯 I’m looking to collaborate on [TFile](https://github.com/DevAdalat/TFile)
-
 - 💬 Ask me about **Flutter, Golang, Arduino**
 
 - 📫 How to reach me **akbusiness022@gmail.com**
